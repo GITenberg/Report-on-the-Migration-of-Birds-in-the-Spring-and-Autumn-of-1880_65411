@@ -1,0 +1,42 @@
+_repo: Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1880_65411
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Harvie-Brown, J. A. (John Alexander)
+    aliases:
+    - Brown, J. A. Harvie
+    - Harvie-Brown, John Alexander
+    birthdate: 1844
+    deathdate: 1916
+    gutenberg_agent_id: '53324'
+    url: http://www.gutenberg.org/2009/agents/53324
+    wikipedia: https://en.wikipedia.org/wiki/John_Alexander_Harvie-Brown
+  - agent_name: Kermode, P. M. C. (Philip Moore Callow)
+    alias: Kermode, Philip Moore Callow
+    birthdate: 1854
+    deathdate: 1932
+    gutenberg_agent_id: '53326'
+    url: http://www.gutenberg.org/2009/agents/53326
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Moore_Callow_Kermode
+  - agent_name: Cordeaux, John
+    birthdate: 1831
+    deathdate: 1899
+    gutenberg_agent_id: '53325'
+    url: http://www.gutenberg.org/2009/agents/53325
+    wikipedia: https://en.wikipedia.org/wiki/John_Cordeaux_(ornithologist)
+description: ''
+gutenberg_issued: '2021-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Migration -- Ireland -- Periodicals'
+- !lcc 'QL'
+- !lcsh 'Birds -- Migration -- Great Britain -- Periodicals'
+- GITenberg
+title: Report on the Migration of Birds in the Spring and Autumn of 1880
+url: http://www.gutenberg.org/ebooks/65411
